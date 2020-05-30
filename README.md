@@ -1,0 +1,2 @@
+# gopx-registry
+Deprecated
